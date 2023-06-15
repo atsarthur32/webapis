@@ -7885,11 +7885,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\FluxoCaixa\\BackEnd\\Fluxo.Caixa.Apis\\Fluxo.Lancamentos.Caixa.Api.Tests\\Fluxo.Lancamentos.Caixa.Api.Tests\\Fluxo.Lancamentos.Caixa.Api.Tests.csproj",
+      "projectUniqueName": "C:\\Projetos\\GitAtsarthur32\\webapis\\Fluxo.Caixa.Apis\\Fluxo.Lancamentos.Caixa.Api.Tests\\Fluxo.Lancamentos.Caixa.Api.Tests\\Fluxo.Lancamentos.Caixa.Api.Tests.csproj",
       "projectName": "Fluxo.Lancamentos.Caixa.Api.Tests",
-      "projectPath": "C:\\Projetos\\FluxoCaixa\\BackEnd\\Fluxo.Caixa.Apis\\Fluxo.Lancamentos.Caixa.Api.Tests\\Fluxo.Lancamentos.Caixa.Api.Tests\\Fluxo.Lancamentos.Caixa.Api.Tests.csproj",
+      "projectPath": "C:\\Projetos\\GitAtsarthur32\\webapis\\Fluxo.Caixa.Apis\\Fluxo.Lancamentos.Caixa.Api.Tests\\Fluxo.Lancamentos.Caixa.Api.Tests\\Fluxo.Lancamentos.Caixa.Api.Tests.csproj",
       "packagesPath": "C:\\Users\\fsart\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\FluxoCaixa\\BackEnd\\Fluxo.Caixa.Apis\\Fluxo.Lancamentos.Caixa.Api.Tests\\Fluxo.Lancamentos.Caixa.Api.Tests\\obj\\",
+      "outputPath": "C:\\Projetos\\GitAtsarthur32\\webapis\\Fluxo.Caixa.Apis\\Fluxo.Lancamentos.Caixa.Api.Tests\\Fluxo.Lancamentos.Caixa.Api.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fsart\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7906,8 +7906,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Projetos\\FluxoCaixa\\BackEnd\\Fluxo.Caixa.Apis\\Fluxo.Lancamentos.Caixa.Api\\Fluxo.Lancamentos.Caixa.Api.csproj": {
-              "projectPath": "C:\\Projetos\\FluxoCaixa\\BackEnd\\Fluxo.Caixa.Apis\\Fluxo.Lancamentos.Caixa.Api\\Fluxo.Lancamentos.Caixa.Api.csproj"
+            "C:\\Projetos\\GitAtsarthur32\\webapis\\Fluxo.Caixa.Apis\\Fluxo.Lancamentos.Caixa.Api\\Fluxo.Lancamentos.Caixa.Api.csproj": {
+              "projectPath": "C:\\Projetos\\GitAtsarthur32\\webapis\\Fluxo.Caixa.Apis\\Fluxo.Lancamentos.Caixa.Api\\Fluxo.Lancamentos.Caixa.Api.csproj"
             }
           }
         }

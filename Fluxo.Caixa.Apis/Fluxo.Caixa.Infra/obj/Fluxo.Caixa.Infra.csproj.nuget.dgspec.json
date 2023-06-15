@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\FluxoCaixa\\BackEnd\\Fluxo.Caixa.Apis\\Fluxo.Caixa.Infra\\Fluxo.Caixa.Infra.csproj": {}
+    "C:\\Projetos\\GitAtsarthur32\\webapis\\Fluxo.Caixa.Apis\\Fluxo.Caixa.Infra\\Fluxo.Caixa.Infra.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\FluxoCaixa\\BackEnd\\Fluxo.Caixa.Apis\\Fluxo.Caixa.Domain\\Fluxo.Caixa.Domain.csproj": {
+    "C:\\Projetos\\GitAtsarthur32\\webapis\\Fluxo.Caixa.Apis\\Fluxo.Caixa.Domain\\Fluxo.Caixa.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\FluxoCaixa\\BackEnd\\Fluxo.Caixa.Apis\\Fluxo.Caixa.Domain\\Fluxo.Caixa.Domain.csproj",
+        "projectUniqueName": "C:\\Projetos\\GitAtsarthur32\\webapis\\Fluxo.Caixa.Apis\\Fluxo.Caixa.Domain\\Fluxo.Caixa.Domain.csproj",
         "projectName": "Fluxo.Caixa.Domain",
-        "projectPath": "C:\\Projetos\\FluxoCaixa\\BackEnd\\Fluxo.Caixa.Apis\\Fluxo.Caixa.Domain\\Fluxo.Caixa.Domain.csproj",
+        "projectPath": "C:\\Projetos\\GitAtsarthur32\\webapis\\Fluxo.Caixa.Apis\\Fluxo.Caixa.Domain\\Fluxo.Caixa.Domain.csproj",
         "packagesPath": "C:\\Users\\fsart\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\FluxoCaixa\\BackEnd\\Fluxo.Caixa.Apis\\Fluxo.Caixa.Domain\\obj\\",
+        "outputPath": "C:\\Projetos\\GitAtsarthur32\\webapis\\Fluxo.Caixa.Apis\\Fluxo.Caixa.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fsart\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Projetos\\FluxoCaixa\\BackEnd\\Fluxo.Caixa.Apis\\Fluxo.Caixa.Infra\\Fluxo.Caixa.Infra.csproj": {
+    "C:\\Projetos\\GitAtsarthur32\\webapis\\Fluxo.Caixa.Apis\\Fluxo.Caixa.Infra\\Fluxo.Caixa.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\FluxoCaixa\\BackEnd\\Fluxo.Caixa.Apis\\Fluxo.Caixa.Infra\\Fluxo.Caixa.Infra.csproj",
+        "projectUniqueName": "C:\\Projetos\\GitAtsarthur32\\webapis\\Fluxo.Caixa.Apis\\Fluxo.Caixa.Infra\\Fluxo.Caixa.Infra.csproj",
         "projectName": "Fluxo.Caixa.Infra",
-        "projectPath": "C:\\Projetos\\FluxoCaixa\\BackEnd\\Fluxo.Caixa.Apis\\Fluxo.Caixa.Infra\\Fluxo.Caixa.Infra.csproj",
+        "projectPath": "C:\\Projetos\\GitAtsarthur32\\webapis\\Fluxo.Caixa.Apis\\Fluxo.Caixa.Infra\\Fluxo.Caixa.Infra.csproj",
         "packagesPath": "C:\\Users\\fsart\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\FluxoCaixa\\BackEnd\\Fluxo.Caixa.Apis\\Fluxo.Caixa.Infra\\obj\\",
+        "outputPath": "C:\\Projetos\\GitAtsarthur32\\webapis\\Fluxo.Caixa.Apis\\Fluxo.Caixa.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fsart\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Projetos\\FluxoCaixa\\BackEnd\\Fluxo.Caixa.Apis\\Fluxo.Caixa.Domain\\Fluxo.Caixa.Domain.csproj": {
-                "projectPath": "C:\\Projetos\\FluxoCaixa\\BackEnd\\Fluxo.Caixa.Apis\\Fluxo.Caixa.Domain\\Fluxo.Caixa.Domain.csproj"
+              "C:\\Projetos\\GitAtsarthur32\\webapis\\Fluxo.Caixa.Apis\\Fluxo.Caixa.Domain\\Fluxo.Caixa.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\GitAtsarthur32\\webapis\\Fluxo.Caixa.Apis\\Fluxo.Caixa.Domain\\Fluxo.Caixa.Domain.csproj"
               }
             }
           }

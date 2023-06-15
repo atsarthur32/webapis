@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E33nJE+r0/McET+ppKnVHVXHgkdvIw5l3LqX6uY4OSGkuxQIFYgrl0t7S80eWMhVODkEFLjPYZaNZQZoTvsWow==",
+  "dgSpecHash": "7uKamt8dDc27vfnoFOOgH1vgJILbHgFBjlUhdrY56gOs8LbkOPBQKIOtwXXXYliw/Ix1REZiDhMMexBcJbaXMA==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\FluxoCaixa\\BackEnd\\Fluxo.Caixa.Apis\\Fluxo.Caixa.Infra\\Fluxo.Caixa.Infra.csproj",
+  "projectFilePath": "C:\\Projetos\\GitAtsarthur32\\webapis\\Fluxo.Caixa.Apis\\Fluxo.Caixa.Infra\\Fluxo.Caixa.Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fsart\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\fsart\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",

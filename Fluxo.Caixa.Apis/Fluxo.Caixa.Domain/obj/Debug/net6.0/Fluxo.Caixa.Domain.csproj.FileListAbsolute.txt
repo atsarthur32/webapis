@@ -22,3 +22,15 @@ C:\Projetos\FluxoCaixa\BackEnd\Fluxo.Caixa.Apis\Fluxo.Caixa.Domain\obj\Debug\net
 C:\Projetos\FluxoCaixa\BackEnd\Fluxo.Caixa.Apis\Fluxo.Caixa.Domain\obj\Debug\net6.0\refint\Fluxo.Caixa.Domain.dll
 C:\Projetos\FluxoCaixa\BackEnd\Fluxo.Caixa.Apis\Fluxo.Caixa.Domain\obj\Debug\net6.0\Fluxo.Caixa.Domain.pdb
 C:\Projetos\FluxoCaixa\BackEnd\Fluxo.Caixa.Apis\Fluxo.Caixa.Domain\obj\Debug\net6.0\ref\Fluxo.Caixa.Domain.dll
+C:\Projetos\GitAtsarthur32\webapis\Fluxo.Caixa.Apis\Fluxo.Caixa.Domain\bin\Debug\net6.0\Fluxo.Caixa.Domain.deps.json
+C:\Projetos\GitAtsarthur32\webapis\Fluxo.Caixa.Apis\Fluxo.Caixa.Domain\bin\Debug\net6.0\Fluxo.Caixa.Domain.dll
+C:\Projetos\GitAtsarthur32\webapis\Fluxo.Caixa.Apis\Fluxo.Caixa.Domain\bin\Debug\net6.0\Fluxo.Caixa.Domain.pdb
+C:\Projetos\GitAtsarthur32\webapis\Fluxo.Caixa.Apis\Fluxo.Caixa.Domain\obj\Debug\net6.0\Fluxo.Caixa.Domain.csproj.AssemblyReference.cache
+C:\Projetos\GitAtsarthur32\webapis\Fluxo.Caixa.Apis\Fluxo.Caixa.Domain\obj\Debug\net6.0\Fluxo.Caixa.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\GitAtsarthur32\webapis\Fluxo.Caixa.Apis\Fluxo.Caixa.Domain\obj\Debug\net6.0\Fluxo.Caixa.Domain.AssemblyInfoInputs.cache
+C:\Projetos\GitAtsarthur32\webapis\Fluxo.Caixa.Apis\Fluxo.Caixa.Domain\obj\Debug\net6.0\Fluxo.Caixa.Domain.AssemblyInfo.cs
+C:\Projetos\GitAtsarthur32\webapis\Fluxo.Caixa.Apis\Fluxo.Caixa.Domain\obj\Debug\net6.0\Fluxo.Caixa.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\GitAtsarthur32\webapis\Fluxo.Caixa.Apis\Fluxo.Caixa.Domain\obj\Debug\net6.0\Fluxo.Caixa.Domain.dll
+C:\Projetos\GitAtsarthur32\webapis\Fluxo.Caixa.Apis\Fluxo.Caixa.Domain\obj\Debug\net6.0\refint\Fluxo.Caixa.Domain.dll
+C:\Projetos\GitAtsarthur32\webapis\Fluxo.Caixa.Apis\Fluxo.Caixa.Domain\obj\Debug\net6.0\Fluxo.Caixa.Domain.pdb
+C:\Projetos\GitAtsarthur32\webapis\Fluxo.Caixa.Apis\Fluxo.Caixa.Domain\obj\Debug\net6.0\ref\Fluxo.Caixa.Domain.dll

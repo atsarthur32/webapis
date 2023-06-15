@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BKdy2dU1st99pX3jyuwsopcUnwRyDzWfe8jNnQpav5+8ujWVzSNWqw5z+dvydFtWQ3ZB3XRGVjaT6Nt2P5Wszg==",
+  "dgSpecHash": "R9UyDZSheqHOYjq8aLXly8lSyQDiB3X31WNvCEMbHCY/I0ccfnF+WqqC29ebyTD0H2IxNyPGlZDWpp2z9GprXg==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\FluxoCaixa\\BackEnd\\Fluxo.Caixa.Apis\\Fluxo.Lancamentos.Caixa.Api.Tests\\Fluxo.Lancamentos.Caixa.Api.Tests\\Fluxo.Lancamentos.Caixa.Api.Tests.csproj",
+  "projectFilePath": "C:\\Projetos\\GitAtsarthur32\\webapis\\Fluxo.Caixa.Apis\\Fluxo.Lancamentos.Caixa.Api.Tests\\Fluxo.Lancamentos.Caixa.Api.Tests\\Fluxo.Lancamentos.Caixa.Api.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fsart\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\fsart\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

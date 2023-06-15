@@ -126,11 +126,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\FluxoCaixa\\BackEnd\\Fluxo.Caixa.Apis\\Fluxo.Caixa.Domain\\Fluxo.Caixa.Domain.csproj",
+      "projectUniqueName": "C:\\Projetos\\GitAtsarthur32\\webapis\\Fluxo.Caixa.Apis\\Fluxo.Caixa.Domain\\Fluxo.Caixa.Domain.csproj",
       "projectName": "Fluxo.Caixa.Domain",
-      "projectPath": "C:\\Projetos\\FluxoCaixa\\BackEnd\\Fluxo.Caixa.Apis\\Fluxo.Caixa.Domain\\Fluxo.Caixa.Domain.csproj",
+      "projectPath": "C:\\Projetos\\GitAtsarthur32\\webapis\\Fluxo.Caixa.Apis\\Fluxo.Caixa.Domain\\Fluxo.Caixa.Domain.csproj",
       "packagesPath": "C:\\Users\\fsart\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\FluxoCaixa\\BackEnd\\Fluxo.Caixa.Apis\\Fluxo.Caixa.Domain\\obj\\",
+      "outputPath": "C:\\Projetos\\GitAtsarthur32\\webapis\\Fluxo.Caixa.Apis\\Fluxo.Caixa.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fsart\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -40,7 +40,7 @@ Será necessario iniciar a utilização da Api Cadastrando novos Registros para 
 Obs: Campo data deve ser enviado o padrao yyyy-MM-dd
      Passar o TipoPagamento como zero retorna todos os tipos de pagamento.
      Utilizando meu script será cadastrado dois tipos de pagamentos ( 1 -Débito,  2 -Credito )
-     Foram Cadastrado 3 empresas como exemplo ( 1 - Carrefour, 2 - Atacadao , 3 - Sums Clube )
+     Foram Cadastrado 3 empresas como exemplo ( 1 , 2 , 3)
 
 #Fluxo.RelatorioDiario.Api
 
