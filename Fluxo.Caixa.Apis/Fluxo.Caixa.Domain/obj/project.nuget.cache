@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aLOXesTvt970T/pmTWiL1pHUqo9HPGd4HszujrolSbijS0vQI0YLATGOt7zxUgf58GRc+AHGtAfVSCC9uO9FsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\FluxoCaixa\\BackEnd\\Fluxo.Caixa.Apis\\Fluxo.Caixa.Domain\\Fluxo.Caixa.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fsart\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\fsart\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

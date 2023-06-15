@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "l8ZE9uKPGIBOsaqRd299iGlURmKc4/fFlr4sLOolRjI=",
+  "Source": "Fluxo.RelatorioDiario.Api",
+  "BasePath": "_content/Fluxo.RelatorioDiario.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
