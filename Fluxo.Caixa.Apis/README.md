@@ -21,14 +21,17 @@ Caso já tenha o SQL server instalado na maquina, não será nessária a execuç
 docker pull mcr.microsoft.com/mssql/server:2019-CU3-ubuntu-18.04
 
 ----------=-----------------------------------------------------------------------------------------
+
 2 - Iniciar sua Imagem utilizando o comando abaixo que definirá a senha do SA como Cacique2@.
 
 docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=Cacique2@"  -p 1433:1433 --name dbSchool -d mcr.microsoft.com/mssql/server:2019-CU3-ubuntu-18.04
 
 ----------=-----------------------------------------------------------------------------------------
+
 3 - Criar o DataBase de forma manual chamado DB_FLUXOCAIXA. 
 
 ----------=-----------------------------------------------------------------------------------------
+
 4 - Executar o script anexo na pasta de pré requisitos do projeto (Fluxo.Caixa.Apis\ScriptBanco)
 
 Obs: É recomendado utilizar o script em vez da migração (Migration) porem todo mapeamento do entity estão nas classes (classeMap) com relacionamentos, pois o script já popula as tabelas de domínio da aplicação.
