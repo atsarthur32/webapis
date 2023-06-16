@@ -48,13 +48,13 @@ ALTER TABLE TB_RELATORIO_DIARIO ADD CONSTRAINT FK_TB_RELATORIO_DIARIO_TB_TIPO_PA
 
 -- inserir dados
 insert into TB_EMPRESA (nome, cnpj , grupo_empresarial , create_at , update_at)
-values ('Carrefour','123','CSF',GETDATE(),GETDATE())
+values ('Mercado','123','CSF',GETDATE(),GETDATE())
 
 insert into TB_EMPRESA (nome, cnpj , grupo_empresarial , create_at , update_at)
-values ('Atacadão','456','CSF',GETDATE(),GETDATE())
+values ('Atacado','456','CSF',GETDATE(),GETDATE())
 
 insert into TB_EMPRESA (nome, cnpj , grupo_empresarial , create_at , update_at)
-values ('Suns Clube','789','CSF',GETDATE(),GETDATE())
+values ('Varejo','789','CSF',GETDATE(),GETDATE())
 
 insert into TB_TIPO_PAGAMENTO (descricao , create_at, update_at)
 values ('Débito',GETDATE(),GETDATE())
