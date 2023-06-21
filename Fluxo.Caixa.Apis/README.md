@@ -24,7 +24,7 @@ docker pull mcr.microsoft.com/mssql/server:2019-CU3-ubuntu-18.04
 
 2 - Iniciar sua Imagem utilizando o comando abaixo que definirá a senha do SA como Cacique2@.
 
-docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=Cacique2@"  -p 1433:1433 --name dbSchool -d mcr.microsoft.com/mssql/server:2019-CU3-ubuntu-18.04
+docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=Cacique2@"  -p 1433:1433 --name DB_FLUXOCAIXA -d mcr.microsoft.com/mssql/server:2019-CU3-ubuntu-18.04
 
 ----------=-----------------------------------------------------------------------------------------
 
